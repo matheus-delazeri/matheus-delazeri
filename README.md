@@ -17,11 +17,12 @@
 ### Glad to see you here!  ![visitors](https://visitor-badge.glitch.me/badge?page_id=${matheus-delazeri}.${380019460})
 
 I'm a student of Information Systems at UFSM, Brazil.
-
+<br><br>
 - 🌱 I’m currently learning Python and JavaScript 
 - :rocket: I’m currently doing the [Hiring Coders](https://www.hiringcoders.com.br/) training
 - 📫 How to reach me: matheusdelazeris@gmail.com
-<br><br><br><br><br>
+- :speech_balloon: Hobbies: Games and good books
+<br><br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=matheus-delazeri&show_icons=true&hide_border=true&count_private=true" />
 </a>
