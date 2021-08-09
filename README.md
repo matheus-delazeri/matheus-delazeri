@@ -18,8 +18,8 @@
 
 I'm a student of Information Systems at UFSM, Brazil.
 <br><br>
-- 🌱 I’m currently learning Python and JavaScript 
-- :rocket: I’m currently doing the [Hiring Coders](https://www.hiringcoders.com.br/) training
+- 🌱 I’m currently learning JavaScript 
+- :rocket: I'm currently doing the [Hiring Coders](https://www.hiringcoders.com.br/) training
 - 📫 How to reach me: matheusdelazeris@gmail.com
 - :speech_balloon: Hobbies: Games and good books
 <br><br>
