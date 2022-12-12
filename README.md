@@ -18,7 +18,7 @@
 
 I'm a student of Information Systems at UFSM, Brazil.
 <br><br>
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Ruby on Rails
 - 📫 How to reach me: matheusdelazeris@gmail.com
 - :speech_balloon: Hobbies: Games and good books
 <br><br>
