@@ -14,7 +14,8 @@
 <img align="right" width="50%" src="./img/pc.png" style="padding-right:10% !important" >
 
     
-### Glad to see you here!  ![visitors](https://visitor-badge.glitch.me/badge?page_id=${matheus-delazeri}.${380019460})
+### Glad to see you here!  
+![](https://komarev.com/ghpvc/?username=matheus-delazeri)
 
 I'm a student of Information Systems at UFSM, Brazil.
 <br><br>
