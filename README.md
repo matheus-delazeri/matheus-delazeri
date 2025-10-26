@@ -10,16 +10,12 @@
 <a href="https://stackoverflow.com/users/14709132/matheus-delazeri?tab=profile">
 <img height="25em" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a>
-
-<img align="right" width="50%" src="./img/pc.png" style="padding-right:10% !important" >
-
     
 ### Glad to see you here!  
 ![](https://komarev.com/ghpvc/?username=matheus-delazeri)
 
-I'm a student of Information Systems at UFSM, Brazil.
-<br><br>
-- 🌱 I’m currently learning Java
+I'm a Salesforce Developer at <a href="https://www.sottama.com/" target="_blank">Sottama</a>, Brazil.
+<br>
 - 📫 How to reach me: matheusdelazeris@gmail.com
 - :speech_balloon: Hobbies: Games and good books
 <br><br>
